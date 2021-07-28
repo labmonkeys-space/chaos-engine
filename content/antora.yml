@@ -1,0 +1,22 @@
+---
+name: chaos-engine
+version: '0.0.1'
+title: Chaos Engine
+prerelease: true
+asciidoc:
+  attributes:
+    experimental: true
+    prerelease: true
+    source-language: asciidoc@
+    xrefstyle: short@
+    centos-version: '8.x'
+    horizon-version: '28.0.1'
+    postgresql-version: '13'
+    grafana-version: '8.0.5'
+    cassandra-version: '3.11.x'
+    elasticsearch-version: '7.6.2'
+    java-version: 'OpenJDK 11'
+    kafka-version: '2.8'    
+nav:
+- modules/ROOT/index.adoc
+- modules/clab01_appliance/nav.adoc

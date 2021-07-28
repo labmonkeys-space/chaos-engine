@@ -1,0 +1,10 @@
+# Mac files
+.DS_Store
+
+# Packer ISO cache and secrets
+packer_cache/
+secrets.*
+
+# Antora build artifacts
+build/
+public/

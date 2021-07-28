@@ -1,0 +1,4 @@
+= CLAB01: Appliance deployment
+
+.Network topology for flows lab
+image::network-topology.svg[]

@@ -1,0 +1,59 @@
+{
+  "builders": [
+    {
+      "CPUs": "{{user `vm-cpu-num`}}",
+      "RAM": "{{user `vm-mem-size`}}",
+      "RAM_reserve_all": false,
+      "boot_command": [
+        "<esc><wait>",
+        "linux ks=hd:fd0:/ks.cfg<enter>"
+      ],
+      "boot_order": "disk,cdrom,floppy",
+      "boot_wait": "10s",
+      "cluster": "{{user `cluster`}}",
+      "convert_to_template": true,
+      "datacenter": "{{user `datacenter`}}",
+      "datastore": "{{user `datastore`}}",
+      "disk_controller_type": "pvscsi",
+      "floppy_files": [
+        "ks.cfg"
+      ],
+      "guest_os_type": "centos8_64Guest",
+      "insecure_connection": "true",
+      "cdrom_type": "sata",
+      "iso_paths": [
+        "{{user `iso_url`}}"
+      ],
+      "network_adapters": [
+        {
+          "network": "{{user `network`}}",
+          "network_card": "vmxnet3"
+        }
+      ],
+      "notes": "Template build via Packer",
+      "password": "{{user `vcenter-password`}}",
+      "ssh_password": "N8Hs6cX16cbqZ",
+      "ssh_username": "root",
+      "storage": [
+        {
+          "disk_size": "{{user `vm-disk-size`}}",
+          "disk_thin_provisioned": true
+        }
+      ],
+      "type": "vsphere-iso",
+      "iso_url": "https://mirror.informatik.hs-fulda.de/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-20210721-boot.iso",
+      "iso_checksum": "sha256:36220be996c146263c5d045f2aa194f2f76d8094959819f93debc382a66c761e",
+      "username": "{{user `vcenter-user`}}",
+      "vcenter_server": "{{user `vcenter-server`}}",
+      "vm_name": "{{user `vm-name`}}"
+    }
+  ],
+  "provisioners": [
+    {
+      "inline": [
+        "sudo dnf install -y cloud-init"
+      ],
+      "type": "shell"
+    }
+  ]
+}
