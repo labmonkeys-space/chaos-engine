@@ -14,14 +14,14 @@
       <rect x="-558" width="1356" height="449" y="126" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" transform="matrix(1,0,0,1,558,-126)" fill="rgb(255,153,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke-dasharray="6,2" stroke="rgb(255,153,0)" stroke-miterlimit="1.45">
-      <rect x="-543" y="141.5" clip-path="url(#clipPath2)" fill="none" width="505" rx="4" ry="4" height="418"/>
+      <rect x="-543" y="141.5" clip-path="url(#clipPath2)" fill="none" width="500.7539" rx="4" ry="4" height="418"/>
     </g>
     <g stroke-linecap="butt" transform="matrix(1,0,0,1,558,-126)" text-rendering="geometricPrecision" font-family="'Helvetica Neue'" shape-rendering="geometricPrecision" font-style="italic" font-weight="bold" stroke-miterlimit="1.45">
       <text x="-537" xml:space="preserve" y="159.2" clip-path="url(#clipPath2)" stroke="none">Internet</text>
       <rect x="417" y="141.5" clip-path="url(#clipPath2)" fill="none" width="366" rx="4" ry="4" height="418"/>
       <text x="423" xml:space="preserve" y="159.2" clip-path="url(#clipPath2)" stroke="none">Remote Network: 192.168.1.0/24</text>
-      <rect x="-14" y="141.5" clip-path="url(#clipPath2)" fill="none" width="393" rx="4" ry="4" height="418"/>
-      <text x="-8" xml:space="preserve" y="159.2" clip-path="url(#clipPath2)" stroke="none">Data Center Network: 192.168.178.0/24</text>
+      <rect x="-10.8155" y="141.5" clip-path="url(#clipPath2)" fill="none" width="389.8155" rx="4" ry="4" height="418"/>
+      <text x="-4.8155" xml:space="preserve" y="159.2" clip-path="url(#clipPath2)" stroke="none">Data Center Network: 192.168.178.0/24</text>
     </g>
     <g fill="rgb(255,102,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke="rgb(255,102,102)">
       <rect x="348" y="415.5" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
@@ -49,36 +49,36 @@
       <text x="36.136" xml:space="preserve" y="458.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.1</text>
     </g>
     <g fill="rgb(0,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke="rgb(0,204,255)">
-      <rect x="6" y="492" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
+      <rect x="15" y="492" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke-linecap="butt">
-      <rect x="6" y="492" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
-      <text x="44.062" xml:space="preserve" y="518.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">Proxy</text>
-      <text x="17.8" xml:space="preserve" y="533.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.69</text>
+      <rect x="15" y="492" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
+      <text x="53.062" xml:space="preserve" y="518.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">Proxy</text>
+      <text x="26.8" xml:space="preserve" y="533.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.69</text>
     </g>
     <g fill="rgb(204,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke="rgb(204,255,204)">
-      <rect x="6" y="342" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
+      <rect x="15" y="342" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke-linecap="butt">
-      <rect x="6" y="342" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
-      <text x="39.73" xml:space="preserve" y="368.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">horizon</text>
-      <text x="18.256" xml:space="preserve" y="383.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.xx</text>
+      <rect x="15" y="342" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
+      <text x="48.73" xml:space="preserve" y="368.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">horizon</text>
+      <text x="26.8" xml:space="preserve" y="383.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.74</text>
     </g>
     <g fill="rgb(204,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke="rgb(204,255,204)">
-      <rect x="6" y="272" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
+      <rect x="15" y="272" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke-linecap="butt">
-      <rect x="6" y="272" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
-      <text x="42.28" xml:space="preserve" y="298.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">elastic</text>
-      <text x="18.256" xml:space="preserve" y="313.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.xx</text>
+      <rect x="15" y="272" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
+      <text x="51.28" xml:space="preserve" y="298.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">elastic</text>
+      <text x="26.8" xml:space="preserve" y="313.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.77</text>
     </g>
     <g fill="rgb(204,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke="rgb(204,255,204)">
-      <rect x="6" y="202" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
+      <rect x="15" y="202" clip-path="url(#clipPath2)" width="107" rx="4" ry="4" height="45" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke-linecap="butt">
-      <rect x="6" y="202" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
-      <text x="45.052" xml:space="preserve" y="228.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">kafka</text>
-      <text x="18.256" xml:space="preserve" y="243.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.xx</text>
+      <rect x="15" y="202" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
+      <text x="54.052" xml:space="preserve" y="228.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">kafka</text>
+      <text x="26.8" xml:space="preserve" y="243.434" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">192.168.178.76</text>
       <text x="-168.294" xml:space="preserve" y="451.444" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">public dynamic</text>
       <text x="-145.95" xml:space="preserve" y="465.424" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">ip4/ip6</text>
     </g>
@@ -137,18 +137,18 @@
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,558,-126)" stroke-linecap="butt">
       <rect x="-498" y="207" clip-path="url(#clipPath2)" fill="none" width="107" rx="4" ry="4" height="45"/>
       <text x="-482.96" xml:space="preserve" y="233.934" clip-path="url(#clipPath2)" font-family="'Helvetica Neue'" stroke="none">Ubuntu Snaps</text>
-      <path fill="none" d="M343.9738 438 L306.0261 438" clip-path="url(#clipPath2)"/>
-      <path d="M351.9738 438 C351.9738 440.2091 350.183 442 347.9738 442 C345.7647 442 343.9738 440.2091 343.9738 438 C343.9738 435.7909 345.7647 434 347.9738 434 C350.183 434 351.9738 435.7909 351.9738 438 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M35.9866 439.1089 L198.9741 438.0003" clip-path="url(#clipPath2)"/>
       <path d="M27.9868 439.1634 C27.9718 436.9543 29.7504 435.1513 31.9595 435.1363 C34.1686 435.1212 35.9716 436.8999 35.9866 439.1089 C36.0016 441.318 34.223 443.121 32.0139 443.1361 C29.8048 443.1511 28.0018 441.3725 27.9868 439.1634 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" d="M116.9946 364.9208 L121.0068 365.3419 L128.0877 367.7197 L134.3539 371.4115 L139.9315 376.1953 L149.5245 388.1514 L157.875 401.8125 L165.9911 415.4033 L174.881 427.1484 L179.9312 431.774 L185.5529 435.2725 L191.8721 437.4218 L198.987 437.9977" clip-path="url(#clipPath2)"/>
-      <path d="M109.0383 364.0858 C109.2689 361.8887 111.2369 360.2946 113.434 360.5251 C115.631 360.7557 117.2252 362.7237 116.9946 364.9208 C116.764 367.1179 114.796 368.712 112.5989 368.4814 C110.4019 368.2509 108.8077 366.2829 109.0383 364.0858 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" d="M116.9365 295.302 L121.0068 296.1281 L128.0877 300.7275 L134.3539 307.8715 L139.9315 317.1328 L149.5245 340.2998 L157.875 366.8125 L165.9911 393.2549 L174.881 416.2109 L179.9312 425.3141 L185.5529 432.2646 L191.8721 436.6356 L198.987 437.9947" clip-path="url(#clipPath2)"/>
-      <path d="M109.0964 293.7107 C109.5358 291.5457 111.6471 290.1469 113.8121 290.5863 C115.9771 291.0257 117.3759 293.137 116.9365 295.302 C116.4971 297.467 114.3858 298.8658 112.2208 298.4264 C110.0558 297.987 108.657 295.8757 109.0964 293.7107 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" d="M116.9737 225.0947 L117.1214 225.1167 L121.0068 226.9142 L128.0877 233.7354 L134.3539 244.3314 L139.9315 258.0703 L149.5245 292.4482 L157.875 331.8125 L165.9911 371.1064 L174.881 405.2734 L179.9312 418.8541 L185.5529 429.2568 L191.8721 435.8495 L195.3327 437.5195 L198.9861 437.9962" clip-path="url(#clipPath2)"/>
-      <path d="M109.0612 223.9149 C109.3869 221.73 111.4223 220.2228 113.6073 220.5486 C115.7923 220.8743 117.2995 222.9097 116.9737 225.0947 C116.6479 227.2797 114.6125 228.7869 112.4276 228.4611 C110.2426 228.1353 108.7354 226.0999 109.0612 223.9149 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" d="M116.9946 514.0788 L121.0068 513.6573 L128.0877 511.2744 L134.3539 507.5687 L139.9315 502.7578 L149.5245 490.6904 L157.875 476.8125 L165.9911 462.8643 L174.881 450.5859 L179.9312 445.6168 L185.5529 441.7178 L191.8721 439.1063 L198.987 438.0043" clip-path="url(#clipPath2)"/>
-      <path d="M109.0383 514.9146 C108.8075 512.7176 110.4015 510.7494 112.5985 510.5186 C114.7956 510.2878 116.7637 511.8817 116.9946 514.0788 C117.2254 516.2758 115.6314 518.244 113.4343 518.4748 C111.2373 518.7056 109.2691 517.1116 109.0383 514.9146 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M125.9764 513.9775 L128.4225 513.6573 L134.117 511.2744 L139.1813 507.5687 L143.7283 502.7578 L151.7218 490.6904 L159 476.8125 L166.4657 462.8643 L175.0217 450.5859 L179.9906 445.6168 L185.5705 441.7178 L191.8743 439.1063 L198.987 438.0043" clip-path="url(#clipPath2)"/>
+      <path d="M118.0441 515.0159 C117.7574 512.8254 119.3006 510.8173 121.4911 510.5305 C123.6815 510.2438 125.6897 511.7871 125.9764 513.9775 C126.2631 516.168 124.7199 518.1761 122.5294 518.4629 C120.339 518.7496 118.3308 517.2063 118.0441 515.0159 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M125.9765 365.022 L128.4225 365.3419 L134.117 367.7197 L139.1813 371.4115 L143.7283 376.1953 L151.7218 388.1514 L159 401.8125 L166.4657 415.4033 L175.0217 427.1484 L179.9906 431.774 L185.5705 435.2725 L191.8743 437.4218 L198.987 437.9977" clip-path="url(#clipPath2)"/>
+      <path d="M118.044 363.9846 C118.3305 361.7941 120.3385 360.2506 122.529 360.5371 C124.7194 360.8235 126.263 362.8315 125.9765 365.022 C125.69 367.2125 123.682 368.756 121.4915 368.4695 C119.3011 368.183 117.7576 366.1751 118.044 363.9846 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M125.8882 295.4871 L128.4225 296.1281 L134.117 300.7275 L139.1813 307.8715 L143.7283 317.1328 L151.7218 340.2998 L159 366.8125 L166.4657 393.2549 L175.0217 416.2109 L179.9906 425.3141 L185.5705 432.2646 L191.8743 436.6356 L198.987 437.9947" clip-path="url(#clipPath2)"/>
+      <path d="M118.1323 293.5256 C118.674 291.3839 120.8493 290.0868 122.991 290.6284 C125.1327 291.1701 126.4298 293.3454 125.8882 295.4871 C125.3465 297.6288 123.1712 298.9259 121.0295 298.3842 C118.8878 297.8426 117.5907 295.6673 118.1323 293.5256 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M125.7975 225.4397 L125.8958 225.4579 L128.4225 226.9142 L134.117 233.7354 L139.1813 244.3314 L143.7283 258.0703 L151.7218 292.4482 L159 331.8125 L166.4657 371.1064 L175.0217 405.2734 L179.9906 418.8541 L185.5705 429.2568 L191.8743 435.8495 L195.333 437.5195 L198.9861 437.9962" clip-path="url(#clipPath2)"/>
+      <path d="M118.0307 223.5221 C118.5602 221.3774 120.7282 220.068 122.8729 220.5975 C125.0176 221.127 126.327 223.295 125.7975 225.4397 C125.268 227.5844 123.1001 228.8938 120.9553 228.3643 C118.8106 227.8348 117.5012 225.6668 118.0307 223.5221 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M343.9738 438 L306.0261 438" clip-path="url(#clipPath2)"/>
+      <path d="M351.9738 438 C351.9738 440.2091 350.183 442 347.9738 442 C345.7647 442 343.9738 440.2091 343.9738 438 C343.9738 435.7909 345.7647 434 347.9738 434 C350.183 434 351.9738 435.7909 351.9738 438 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M458.9837 438 L502.968 438" clip-path="url(#clipPath2)"/>
       <path d="M450.9837 438 C450.9837 435.7909 452.7745 434 454.9837 434 C457.1928 434 458.9837 435.7909 458.9837 438 C458.9837 440.2091 457.1928 442 454.9837 442 C452.7745 442 450.9837 440.2091 450.9837 438 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M647.9895 438 L609.9797 438" clip-path="url(#clipPath2)"/>

@@ -1,0 +1,12 @@
+{
+  "vm-name": "Centos-8-Lab-Template",
+  "vsphere-server": "vcsa.labmonkeys.tech",
+  "datacenter": "Labmonkeys-DC",
+  "datastore": "datastore2",
+  "folder": "Templates",
+  "cluster": "Blinkenlights",
+  "network": "CLAB-data-center",
+  "vm-cpu-num": "1",
+  "vm-mem-size": "1024",
+  "vm-disk-size": "10240"
+}

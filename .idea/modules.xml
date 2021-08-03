@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/workbench/opennms/.circleci/.circleci.iml" filepath="$USER_HOME$/workbench/opennms/.circleci/.circleci.iml" />
+      <module fileurl="file://$USER_HOME$/workbench/container/base-container/base-container.iml" filepath="$USER_HOME$/workbench/container/base-container/base-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chaos-engine.iml" filepath="$PROJECT_DIR$/.idea/chaos-engine.iml" />
+      <module fileurl="file://$USER_HOME$/workbench/container/circleci-path-filter/circleci-path-filter.iml" filepath="$USER_HOME$/workbench/container/circleci-path-filter/circleci-path-filter.iml" />
+    </modules>
+  </component>
+</project>

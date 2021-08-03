@@ -1,0 +1,44 @@
+{
+  "builders": [
+    {
+      "CPUs": "{{user `vm-cpu-num`}}",
+      "RAM": "{{user `vm-mem-size`}}",
+      "RAM_reserve_all": false,
+      "boot_command": ["e<down><down><end><bs><bs><bs><bs><bs>text inst.ks=http://{{ .HTTPIP }}:{{ .HTTPPort }}/ks.cfg<leftCtrlOn>x<leftCtrlOff>"],
+      "boot_wait": "5s",
+      "cluster": "{{user `cluster`}}",
+      "convert_to_template": true,
+      "datacenter": "{{user `datacenter`}}",
+      "datastore": "{{user `datastore`}}",
+      "disk_controller_type": "pvscsi",
+      "firmware": "efi",
+      "folder": "{{user `folder`}}",
+      "guest_os_type": "centos8_64Guest",
+      "http_directory": "http",
+      "insecure_connection": "true",
+      "iso_checksum": "sha256:36220be996c146263c5d045f2aa194f2f76d8094959819f93debc382a66c761e",
+      "iso_url": "https://mirror.informatik.hs-fulda.de/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-20210721-boot.iso",
+      "network_adapters": [
+        {
+          "network": "{{user `network`}}",
+          "network_card": "vmxnet3"
+        }
+      ],
+      "notes": "Template build via Packer",
+      "password": "{{user `vsphere-password`}}",
+      "ssh_password": "{{user `ssh-password`}}",
+      "ssh_username": "{{user `ssh-username`}}",
+      "storage": [
+        {
+          "disk_size": "{{user `vm-disk-size`}}",
+          "disk_thin_provisioned": true
+        }
+      ],
+      "shutdown_command": "echo 'packer'|sudo -S /sbin/halt -h -p",
+      "type": "vsphere-iso",
+      "username": "{{user `vsphere-user`}}",
+      "vcenter_server": "{{user `vsphere-server`}}",
+      "vm_name": "{{user `vm-name`}}"
+    }
+  ]
+}

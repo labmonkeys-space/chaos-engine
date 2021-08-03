@@ -1,0 +1,42 @@
+= CLAB: VMware Lab Environment
+
+.Network topology for lab environment
+image::clab00-network.svg[]
+
+== OPNsense Firewall configuration
+
+=== Users and Passwords
+
+* Login: `root`
+* Password: `KCqWwdwhvo8n6BCb6P`
+
+* Lab login: `onms-admin`
+* Password: `h1rv5DvH1kgbEPFZRL`
+
+
+=== Network settings
+
+* `vmx0`: External network with access to internet services (DHCP)
+* `vmx1`: Data center network with OpenNMS services simulating a data center (static IP4 10.1.1.1/24)
+* `vmx2`: Branch lab network simulating a remote office (static IP4 192.168.1.1/24)
+
+=== IP configuration
+* Data center: no DHCP, default gateway & DNS 10.1.1.1
+* Branch DHCP range: `192.168.1.100 - 192.168.1.120`, default gateway & DNS 192.168.1.1
+
+=== Firewall rule categories
+
+* `administration`: Rules to administrate infrastructure, e.g. web UI and SSH access to the firewall
+* `management`: Rules to manage the systems in the lab environment, e.g. Karaf shell access to Core, Minion and Sentinel
+
+== CentOS 8 Template
+
+=== Users and Passwords
+
+TIP: Encrypting a password with SHA512 `openssl passwd -6`
+
+* Login: `root`
+* Password: `KCqWwdwhvo8n6BCb6P`
+
+* Lab login: `onms-admin`
+* Password: `h1rv5DvH1kgbEPFZRL`
