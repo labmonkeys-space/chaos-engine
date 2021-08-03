@@ -8,3 +8,6 @@ secrets.*
 # Antora build artifacts
 build/
 public/
+
+# Terraform files
+.terraform*
