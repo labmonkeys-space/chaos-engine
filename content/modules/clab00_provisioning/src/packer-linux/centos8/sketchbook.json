@@ -1,9 +1,0 @@
-
-"provisioners": [
-{
-"inline": [
-"sudo dnf install -y cloud-init"
-],
-"type": "shell"
-}
-]
